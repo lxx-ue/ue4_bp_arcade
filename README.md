@@ -10,9 +10,9 @@ ____
 ## Обзор проекта
 При запуске игры появляется стартовое меню. Для старта нужно нажать пробел. <br><br>
 ![Menu](https://github.com/lxx-ue/ue4_bp_arcade/blob/main/arcade_png/arcade_menu.png "Menu")
-<br>Уровни выглядят примерно следующим образом <br><br>
+<br><br>Уровни выглядят примерно следующим образом<br>
 ![Level](https://github.com/lxx-ue/ue4_bp_arcade/blob/main/arcade_png/arcade_level.png "Level")
-<br>Блоки бывают следующих видов <br><br>
+<br><br>Блоки бывают следующих видов <br>
 ![Blocks](https://github.com/lxx-ue/ue4_bp_arcade/blob/main/arcade_png/arcade_blocks.png "Blocks")
 1. Неразрушаемый блок
 2. Простой блок, разрушается с 1 попадания. При уничтожение есть шанс выпадения простых бонусов.
